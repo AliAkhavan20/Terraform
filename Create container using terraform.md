@@ -10,8 +10,8 @@ provisioner "remote-exec" {
 connection {
     type     = "ssh"
     user     = "ali"
-    password = "asd123ASDf"
-    host     = "192.168.74.130"
+    password = "P@ssw0rd"
+    host     = "192.168.1.130"
     port     = "2022"
     }
   }
